@@ -1,6 +1,6 @@
 # Wikipedia Viewer
 
-![Wikipedia Viewer](https://github.com/erolaliyev/freeCodeCamp/blob/master/screenshots/wikipedia-viewer.png)
+![Wikipedia Viewer](https://github.com/erolaliyev/wikipedia-viewer/blob/master/images/wikipedia-viewer.png)
 
 * User stories:
   * I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
